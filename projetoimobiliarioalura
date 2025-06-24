@@ -1,0 +1,13 @@
+Trabalhanco com importação de dados usando biblioteca pandas.
+
+Descrição
+
+O primeiro passo para começarmos o projeto é importar a base de dados e verificar algumas características gerais, como:
+
+quantidade de linhas e colunas;
+
+quais as colunas da base de dados;
+
+explorar as diferentes colunas existentes;
+
+verificar os tipos dos dados.
